@@ -12,7 +12,7 @@ Importante: este backend tiene errores intencionales. La idea NO es rehacerlo, s
 ## Instalacion
 
 1. Copiar variables de entorno:
-
+.
 ```bash
 cp .env.example .env
 ```
